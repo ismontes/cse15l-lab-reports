@@ -1,3 +1,6 @@
+Issac Montes
+A16767262
+
 
 1. `cd` without argument
 ```
